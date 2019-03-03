@@ -1,0 +1,22 @@
+{
+  "name": "translator",
+  "version": "1.0.0",
+  "description": "A node, expressjs application demonstrating the use of AI based language translation services.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olakra/language-translator.git"
+  },
+  "author": "Oscar Lakra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olakra/language-translator/issues"
+  },
+  "homepage": "https://github.com/olakra/language-translator#readme"
+}
